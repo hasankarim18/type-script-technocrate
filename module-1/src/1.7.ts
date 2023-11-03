@@ -33,7 +33,7 @@ const mentorList = {
 
 // learn rest oparatior
 
-const greetFriends = (...friends:string[]){
+const greetFriends = (...friends:string[])=>{
     friends.forEach((friend:string) => {
         console.log(`Hi ${friend}`);        
     });
