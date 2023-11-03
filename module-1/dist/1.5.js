@@ -1,5 +1,5 @@
 "use strict";
-// Reference type ---> Object 
+// Reference type ---> Object , obtional, literal
 const user = {
     company: "Programming Hero",
     firstName: "Hasan",
