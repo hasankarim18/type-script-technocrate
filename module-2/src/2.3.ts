@@ -37,6 +37,12 @@
     const UserWithId : GenericTuple<number, {name:string, email:string}> = [1234, {name:"Dabul", email:"dabul@mail.com"}]
 
 
+    // interface 
+
+    interface User  {
+        
+    }
+
 
 
 
